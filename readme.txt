@@ -6,3 +6,5 @@ Creating a new branck is quick and simple.
 -no-ff
 -NO-FF
 use stash
+
+change from git
