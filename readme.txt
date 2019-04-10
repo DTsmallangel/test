@@ -4,3 +4,5 @@ git has a multible index called stage.
 git track changes of files.
 Creating a new branck is quick and simple.
 -no-ff
+-NO-FF
+use stash
